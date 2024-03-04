@@ -1,1 +1,1 @@
-# DB_Lab1
+Program made for C++17(and higher) standarts
